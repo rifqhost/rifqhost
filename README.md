@@ -12,9 +12,6 @@
 │                                                                      │
 ╰──────────────────────────────────────────────────────────────────────╯
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&color=A855F7&center=true&vCenter=true&width=900&lines=💜+Full+Stack+Developer;⚡+Backend+Engineer;🚀+Building+Modern+Web+Applications;✨+Clean+Code+%7C+Modern+UI+%7C+Scalable+Systems"/>
-
 <br>
 
 <img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=8B5CF6"/>
