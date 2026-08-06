@@ -1,95 +1,76 @@
 <div align="center">
 
-```bash
-> whoami
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   ██████╗ ██╗███████╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗      │
+│   ██╔══██╗██║██╔════╝██╔═══██╗██║  ██║██╔═══██╗██╔════╝╚══██╔══╝      │
+│   ██████╔╝██║█████╗  ██║   ██║███████║██║   ██║███████╗   ██║         │
+│   ██╔══██╗██║██╔══╝  ██║▄▄ ██║██╔══██║██║   ██║╚════██║   ██║         │
+│   ██║  ██║██║██║     ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║         │
+│   ╚═╝  ╚═╝╚═╝╚═╝      ╚══▀▀═╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝         │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+```
 
-Rifqi Ardiansyah
-
-> role
-
-Full Stack Developer
-
-> status
-
-Online
-
-> loading...
-
-█████████████████████ 100%
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&color=A855F7&center=true&vCenter=true&width=900&lines=💜+Full+Stack+Developer;⚡+Backend+Engineer;🚀+Building+Modern+Web+Applications;✨+Clean+Code+%7C+Modern+UI+%7C+Scalable+Systems"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=8B5CF6"/>
 
-<img src="https://img.shields.io/badge/BACKEND-06B6D4?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=06B6D4"/>
 
-<img src="https://img.shields.io/badge/UI%2FUX-EC4899?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=9333EA"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM INFORMATION
+## 💻 System Information
 
 ```yaml
-Username : rifqhost
+Name      : Rifqi Ardiansyah
 
-Name : Rifqi Ardiansyah
+Username  : rifqhost
 
-Role : Full Stack Developer
+Role      : Full Stack Developer
 
-Status : Online
+Location  : Indonesia
 
-Focus :
- - Backend Development
- - Frontend Development
- - UI / UX
- - REST API
+Focus:
+  - Backend Development
+  - Frontend Development
+  - REST API
+  - UI / UX
 
-Learning :
- - React
- - Next.js
- - Node.js
- - Express
- - Laravel
- - TypeScript
+Currently Learning:
+  - React
+  - TypeScript
+  - Node.js
+  - Laravel
+  - Express
 ```
 
 ---
 
-# 🚀 TECHNOLOGY
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,js,ts"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
-
-</div>
-
----
-
-# 💻 GITHUB DASHBOARD
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,sqlite,mongodb,git,github,vscode,figma,postman"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqhost&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqhost&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -101,7 +82,7 @@ Learning :
 
 ---
 
-# 📈 CONTRIBUTION
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -111,83 +92,25 @@ Learning :
 
 ---
 
-# 🏆 ACHIEVEMENTS
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rifqhost&theme=radical&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio | Modern Developer Portfolio |
-| 📚 CBT School | Computer Based Test |
-| 🤖 WhatsApp Bot | Automation System |
-| 📱 Guestbook | Flutter Application |
-| 🎮 Roblox Script Hub | Script Collection Platform |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🌐 Portfolio | Personal Portfolio Website |
+| 📝 CBT School | Computer Based Test System |
+| 📖 Guestbook | Flutter Guestbook Application |
+| 🤖 WhatsApp Bot | Automation & API |
+| 🎮 Roblox Script Hub | Script Management Platform |
 
 ---
 
-# 📅 CURRENT GOALS
+## 🧠 Philosophy
 
-```text
-██████████████████████████████
-
-✔ Build Production Ready Apps
-
-✔ Learn Docker
-
-✔ Learn Cloud
-
-✔ Improve UI / UX
-
-✔ Open Source
-
-✔ SaaS Project
-
-██████████████████████████████
-```
+> **"First, solve the problem. Then, write clean, scalable, and maintainable code."**
 
 ---
 
-# ⚡ DEVELOPMENT PHILOSOPHY
-
-```text
-IDEA
-
-↓
-
-DESIGN
-
-↓
-
-DEVELOP
-
-↓
-
-TEST
-
-↓
-
-DEPLOY
-
-↓
-
-OPTIMIZE
-
-↓
-
-REPEAT
-```
-
----
-
-# 🌐 CONNECT
+## 📬 Connect
 
 <p align="center">
 
@@ -197,19 +120,13 @@ REPEAT
 
 </a>
 
-<a href="#">
+<a href="https://instagram.com/">
 
 <img src="https://skillicons.dev/icons?i=instagram"/>
 
 </a>
 
-<a href="#">
-
-<img src="https://skillicons.dev/icons?i=discord"/>
-
-</a>
-
-<a href="#">
+<a href="mailto:">
 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 
@@ -221,16 +138,8 @@ REPEAT
 
 <div align="center">
 
-## 💜 BUILD • CREATE • INNOVATE 💜
+### ⚡ BUILD • CREATE • DEPLOY • REPEAT ⚡
 
-```diff
-+ Full Stack Developer
-
-+ Backend Engineer
-
-+ UI / UX Designer
-
-+ Lifelong Learner
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=8B5CF6&height=120"/>
 
 </div>
