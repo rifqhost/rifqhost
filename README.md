@@ -1,190 +1,57 @@
-<!-- ========================================= -->
-<!--        RIFQI ARDIANSYAH GITHUB PROFILE     -->
-<!-- ========================================= -->
+# 👋 Hello, I'm Rifqi Ardiansyah
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=8B5CF6&text=RIFQI%20ARDIANSYAH&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Frontend+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things"/>
-
-<img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=8B5CF6"/>
-
-<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=06B6D4"/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge"/>
-
-</div>
+💜 Seorang **Full Stack Developer** dari Indonesia yang berfokus pada pengembangan aplikasi web modern, backend yang scalable, dan antarmuka yang responsif.
 
 ---
 
-# 👋 Hello World!
+## 🚀 About Me
 
-```cpp
-class Developer{
+<table>
+<tr>
+<td width="50%">
 
-public:
+### 👨‍💻 Profile
 
-string name = "Rifqi Ardiansyah";
+- 👤 **Nama:** Rifqi Ardiansyah
+- 💼 **Role:** Full Stack Developer
+- 🌍 **Negara:** Indonesia
+- 🎯 **Fokus:** Backend & Frontend Development
+- 📚 **Sedang Belajar:** React, TypeScript, Node.js, Laravel
+- 🚀 **Tujuan:** Menjadi Professional Full Stack Engineer
 
-string role = "Full Stack Developer";
+</td>
 
-string country = "Indonesia";
+<td width="50%">
 
-vector<string> skills = {
+<img src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-"Laravel",
-
-"PHP",
-
-"MySQL",
-
-"React",
-
-"Node.js",
-
-"Express",
-
-"TypeScript",
-
-"TailwindCSS"
-
-};
-
-};
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 About Me
+## 🎯 Current Focus
 
-```yaml
-Name:
-  Rifqi Ardiansyah
-
-Username:
-  rifqhost
-
-Role:
-  Full Stack Developer
-
-Location:
-  Indonesia
-
-Current Focus:
-  - Backend Development
-  - REST API
-  - Web Development
-  - UI / UX
-  - Clean Architecture
-
-Learning:
-  - React
-  - TypeScript
-  - Express
-  - Node.js
-  - Laravel
-
-Goals:
-  Become a Professional Full Stack Engineer
-```
+- ⚡ Backend Development
+- 🎨 Frontend Development
+- 🔗 REST API Development
+- 📱 Responsive Web Design
+- 🧩 UI / UX Design
+- 🏗 Clean & Scalable Architecture
 
 ---
 
-# ⚡ Tech Stack
+## 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,sqlite,mongodb,git,github,vscode,figma,postman&perline=10"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqhost&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+| Technology | Progress |
+|------------|----------|
+| ⚛ React | █████████░ 90% |
+| 🔷 TypeScript | ████████░░ 80% |
+| 🟢 Node.js | █████████░ 90% |
+| 🚀 Express | ████████░░ 80% |
+| ❤️ Laravel | ██████████ 95% |
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rifqhost&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqhost&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rifqhost&theme=discord&no-frame=true&margin-w=15&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌐 Portfolio | Personal Portfolio Website |
-| 📝 CBT School | Computer Based Test |
-| 📖 Guestbook | Flutter Guestbook |
-| 🤖 WhatsApp Bot | Automation API |
-| 🎮 Roblox Script Hub | Roblox Platform |
-
----
-
-# 💻 Currently Learning
-
-```text
-██████████░░░░░░░░░  React
-
-████████░░░░░░░░░░░  TypeScript
-
-███████████░░░░░░░░ Node.js
-
-████████████░░░░░░░ Laravel
-
-██████████░░░░░░░░░ Express
-```
-
----
-
-# 📬 Connect
-
-<p align="center">
-
-<a href="https://github.com/rifqhost">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://instagram.com/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="mailto:rifqi.ardiansyah310509@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+> 💡 *"First, solve the problem. Then, write clean, scalable, and maintainable code."*
