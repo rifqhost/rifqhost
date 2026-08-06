@@ -1,508 +1,190 @@
-# ROLE
+<!-- ========================================= -->
+<!--        RIFQI ARDIANSYAH GITHUB PROFILE     -->
+<!-- ========================================= -->
 
-You are a Senior GitHub Profile Designer, Senior UI/UX Designer, Creative Frontend Engineer, SVG Animation Expert, and Open Source Branding Specialist.
+<div align="center">
 
-Your task is NOT to create a simple README.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=8B5CF6&text=RIFQI%20ARDIANSYAH&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-Design one of the BEST GitHub Profile READMEs on GitHub.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Frontend+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things"/>
 
-The result must look like a premium landing page instead of a normal README.
+<img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=8B5CF6"/>
 
-======================================================
-GOAL
-======================================================
+<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=06B6D4"/>
 
-Create a stunning GitHub Profile README for:
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge"/>
 
+</div>
+
+---
+
+# 👋 Hello World!
+
+```cpp
+class Developer{
+
+public:
+
+string name = "Rifqi Ardiansyah";
+
+string role = "Full Stack Developer";
+
+string country = "Indonesia";
+
+vector<string> skills = {
+
+"Laravel",
+
+"PHP",
+
+"MySQL",
+
+"React",
+
+"Node.js",
+
+"Express",
+
+"TypeScript",
+
+"TailwindCSS"
+
+};
+
+};
+```
+
+---
+
+# 🚀 About Me
+
+```yaml
 Name:
-Rifqi Ardiansyah
+  Rifqi Ardiansyah
 
 Username:
-rifqhost
-
-Country:
-Indonesia
+  rifqhost
 
 Role:
-Full Stack Developer
+  Full Stack Developer
 
-Current Status:
-SMK Software Engineering (RPL) Student
+Location:
+  Indonesia
 
-Theme:
-Black + White + Neon Purple
+Current Focus:
+  - Backend Development
+  - REST API
+  - Web Development
+  - UI / UX
+  - Clean Architecture
 
-Accent Color:
-#8B5CF6
+Learning:
+  - React
+  - TypeScript
+  - Express
+  - Node.js
+  - Laravel
 
-Style:
-Modern
-Minimalist
-Cyberpunk
-Glassmorphism
-Developer
-Premium
-Neon
-Animated
-Interactive
+Goals:
+  Become a Professional Full Stack Engineer
+```
 
-The README should immediately impress recruiters and developers.
+---
 
-======================================================
-IMPORTANT
-======================================================
+# ⚡ Tech Stack
 
-DO NOT make a normal README.
+<p align="center">
 
-DO NOT make a basic GitHub README.
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,sqlite,mongodb,git,github,vscode,figma,postman&perline=10"/>
 
-DO NOT generate placeholders.
+</p>
 
-DO NOT skip sections.
+---
 
-DO NOT use boring markdown.
+# 📊 GitHub Stats
 
-Build it like a professional personal website inside GitHub README.
+<p align="center">
 
-======================================================
-DESIGN STYLE
-======================================================
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Inspired by:
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqhost&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Apple
+</p>
 
-Linear
+---
 
-Vercel
+# 🔥 GitHub Streak
 
-Raycast
+<p align="center">
 
-GitHub Universe
+<img src="https://streak-stats.demolab.com?user=rifqhost&theme=tokyonight&hide_border=true"/>
 
-Supabase
+</p>
 
-React
+---
 
-Framer
+# 📈 Contribution Graph
 
-Cyberpunk 2077
+<p align="center">
 
-Glass UI
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqhost&theme=tokyo-night&hide_border=true"/>
 
-Neon Purple
+</p>
 
-Modern Dashboard
+---
 
-Everything should feel premium.
+# 🏆 GitHub Trophy
 
-======================================================
-HEADER
-======================================================
+<p align="center">
 
-Create a HUGE animated hero section.
+<img src="https://github-profile-trophy.vercel.app/?username=rifqhost&theme=discord&no-frame=true&margin-w=15&column=4"/>
 
-Include
+</p>
 
-Animated Capsule Render
+---
 
-Typing Animation
+# 🚀 Featured Projects
 
-Gradient
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio | Personal Portfolio Website |
+| 📝 CBT School | Computer Based Test |
+| 📖 Guestbook | Flutter Guestbook |
+| 🤖 WhatsApp Bot | Automation API |
+| 🎮 Roblox Script Hub | Roblox Platform |
 
-Neon Glow
+---
 
-Floating SVG
+# 💻 Currently Learning
 
-Animated divider
+```text
+██████████░░░░░░░░░  React
 
-Visitor Counter
+████████░░░░░░░░░░░  TypeScript
 
-Followers Badge
+███████████░░░░░░░░ Node.js
 
-Stars Badge
+████████████░░░░░░░ Laravel
 
-Status Badge
+██████████░░░░░░░░░ Express
+```
 
-Premium centered layout
+---
 
-======================================================
-INTRO
-======================================================
+# 📬 Connect
 
-Create a beautiful introduction.
+<p align="center">
 
-Not boring.
+<a href="https://github.com/rifqhost">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-Example style:
+<a href="https://instagram.com/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
-Hi 👋
-I'm Rifqi Ardiansyah.
+<a href="mailto:rifqi.ardiansyah310509@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-A passionate Full Stack Developer from Indonesia.
-
-I love building scalable applications, modern web experiences, clean backend architecture, and beautiful interfaces.
-
-======================================================
-ABOUT
-======================================================
-
-Create an animated terminal style section.
-
-Include
-
-Name
-
-Username
-
-Role
-
-Location
-
-Current Focus
-
-Learning
-
-Dream
-
-Experience
-
-Favorite Stack
-
-Current Project
-
-Operating System
-
-Editor
-
-Languages
-
-======================================================
-TECH STACK
-======================================================
-
-Use
-
-Skill Icons
-
-Shields.io
-
-SVG
-
-Icons
-
-Group by category
-
-Frontend
-
-Backend
-
-Database
-
-Tools
-
-Cloud
-
-DevOps
-
-Version Control
-
-UI/UX
-
-Editor
-
-======================================================
-CODING ACTIVITY
-======================================================
-
-Create beautiful progress bars.
-
-Backend
-
-Laravel
-
-React
-
-Node
-
-Express
-
-TypeScript
-
-PHP
-
-MySQL
-
-Tailwind
-
-Responsive Design
-
-API Development
-
-======================================================
-GITHUB STATS
-======================================================
-
-Include
-
-GitHub Readme Stats
-
-Top Languages
-
-Streak
-
-Summary Cards
-
-Contribution Graph
-
-Trophies
-
-Profile Details
-
-======================================================
-ANIMATIONS
-======================================================
-
-Must include
-
-Typing SVG
-
-Capsule Render
-
-Snake Contribution Animation
-
-Animated Divider
-
-Animated Footer
-
-Glowing SVG
-
-Gradient Lines
-
-Modern Badges
-
-Premium Icons
-
-======================================================
-FEATURED PROJECTS
-======================================================
-
-Create premium project cards.
-
-Projects
-
-Portfolio
-
-Guestbook
-
-CBT School
-
-WhatsApp Bot
-
-Roblox Script Hub
-
-Each project must contain
-
-Title
-
-Description
-
-Tech Stack
-
-Status
-
-Repository Button
-
-Demo Button
-
-Modern Card
-
-======================================================
-ACHIEVEMENTS
-======================================================
-
-Create cards for
-
-Projects Completed
-
-Repositories
-
-Years Learning
-
-Commits
-
-Pull Requests
-
-Issues
-
-Coffee Consumed ☕
-
-======================================================
-LEARNING
-======================================================
-
-Animated progress section.
-
-React
-
-Node
-
-Laravel
-
-TypeScript
-
-Express
-
-Docker
-
-Next.js
-
-======================================================
-TIMELINE
-======================================================
-
-Create roadmap timeline.
-
-Started Programming
-
-Learning PHP
-
-Learning Laravel
-
-Learning React
-
-Building APIs
-
-Full Stack Journey
-
-Future Goals
-
-======================================================
-QUOTE
-======================================================
-
-Generate beautiful developer quotes.
-
-Not generic.
-
-======================================================
-FUN FACTS
-======================================================
-
-Include
-
-Love Coding
-
-Love Clean UI
-
-Always Learning
-
-Problem Solver
-
-Night Coder
-
-======================================================
-CONNECT
-======================================================
-
-GitHub
-
-Email
-
-Instagram
-
-LinkedIn (Coming Soon)
-
-Portfolio (Coming Soon)
-
-Beautiful glowing buttons.
-
-======================================================
-FOOTER
-======================================================
-
-Animated wave.
-
-Gradient.
-
-Neon.
-
-Thank You Message.
-
-======================================================
-SPECIAL EFFECTS
-======================================================
-
-Use as many GitHub-compatible SVG animations as possible.
-
-Examples
-
-readme-typing-svg
-
-capsule-render
-
-github-readme-stats
-
-streak-stats
-
-github-profile-summary-cards
-
-github-profile-trophy
-
-activity graph
-
-visitor badge
-
-snake animation
-
-skill icons
-
-shields.io
-
-awesome badges
-
-SVG separators
-
-gradient text
-
-animated gifs (only lightweight)
-
-======================================================
-QUALITY
-======================================================
-
-The code must be:
-
-100% Markdown compatible
-
-GitHub compatible
-
-Clean
-
-Well commented
-
-Easy to edit
-
-Responsive
-
-No broken images
-
-No duplicate sections
-
-No deprecated widgets
-
-======================================================
-OUTPUT
-======================================================
-
-Generate ONE complete README.md.
-
-No explanations.
-
-No summaries.
-
-No markdown fences.
-
-Output only the final README content.
-
-The README should be around 700–1200 lines and feel like a premium animated developer landing page with a black, white, and neon purple aesthetic.
+</p>
