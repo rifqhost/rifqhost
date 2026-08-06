@@ -1,154 +1,119 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=RIFQHOST&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=38"/>
+# Faizz Lovely
 
-# 👋 Hi, I'm Rifqi Ardiansyah
+### Full Stack Developer • Backend Engineer • Software Enthusiast
 
-### 💜 Full Stack Developer • Backend Engineer • UI/UX Designer
+Building scalable web applications with a focus on clean architecture,
+performance, and user experience.
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=🚀+Building+Modern+Web+Applications;⚡+Full+Stack+Developer;💜+Backend+Engineer;✨+Always+Learning"/>
+<br>
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=8A2BE2"/>
-
-<img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=9333EA"/>
-
-<img src="https://img.shields.io/github/stars/rifqhost?style=for-the-badge&logo=github&color=06B6D4"/>
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Backend+%7C+Frontend+%7C+UI%2FUX;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 💻 About Me
+## About
 
 ```ts
-const rifqi = {
-    name: "Rifqi Ardiansyah",
-    role: "Full Stack Developer",
-    school: "SMK RPL",
+const faizz = {
+    name: "Faizz Lovely",
 
-    focus: [
-        "Frontend",
-        "Backend",
-        "UI/UX",
-        "Automation"
+    role: "Full Stack Developer",
+
+    location: "Indonesia",
+
+    interests: [
+        "Backend Development",
+        "Frontend Development",
+        "Modern UI",
+        "REST API",
+        "Software Architecture"
     ],
 
     currentlyLearning: [
-        "React",
+        "Next.js",
         "TypeScript",
-        "Node.js",
-        "Express",
-        "Laravel"
+        "Docker",
+        "Cloud"
     ]
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,git,github,vscode,figma"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,vite"/>
-
-</p>
-
-### ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
-
-</p>
-
-### 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
-### 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💬 Forum Chat | Real-time communication platform |
+| 👕 Website Baju | Modern e-commerce website |
+| 🛒 Tech Store | Technology marketplace |
+| 📱 Gadget | Product showcase application |
+| 💰 SPP Digital | School payment information system |
+| ✅ To Do List | Productivity application |
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizzlovely&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqhost&layout=compact&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzlovely&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=faizzlovely&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Development Philosophy
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rifqhost&theme=radical&hide_border=true"/>
-
-</p>
+> Great software is built through consistency, curiosity, and continuous improvement.
 
 ---
 
-# 📈 Contribution Graph
+## Current Focus
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqhost&theme=react-dark&hide_border=true&color=A855F7&line=00E5FF&point=FF00FF"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rifqhost&theme=radical&no-frame=true&margin-w=15"/>
-
-</p>
+- Building production-ready web applications
+- Improving backend architecture
+- Learning cloud technologies
+- Creating clean and maintainable code
 
 ---
 
-# 🚀 Featured Projects
-
-| 🚀 Project | Stack | Status |
-|------------|-------|--------|
-| 💼 Portfolio | React + TS | ✅ |
-| 🤖 WhatsApp Bot | Node.js | 🚧 |
-| 🎮 Roblox Script Hub | JavaScript | ✅ |
-| 📝 CBT School | PHP | 🚀 |
-| 📱 Guestbook | Flutter | ✅ |
-
----
-
-# 🌐 Connect
+## Connect
 
 <p align="center">
 
-<a href="https://github.com/rifqhost">
+<a href="https://github.com/faizzlovely">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://instagram.com/USERNAME">
+<a href="#">
 <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -157,8 +122,6 @@ const rifqi = {
 
 <div align="center">
 
-### 💜 BUILD • CREATE • SHIP 💜
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,25,30"/>
+*"Keep building. Keep learning."*
 
 </div>
