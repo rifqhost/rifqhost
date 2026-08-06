@@ -1,57 +1,33 @@
-# 👋 Hello, I'm Rifqi Ardiansyah
+# 👋 Hello World!
 
-💜 Seorang **Full Stack Developer** dari Indonesia yang berfokus pada pengembangan aplikasi web modern, backend yang scalable, dan antarmuka yang responsif.
+Selamat datang di profil GitHub saya! 👋
+
+Saya **Rifqi Ardiansyah**, seorang **Full Stack Developer** dari Indonesia yang memiliki minat dalam membangun aplikasi web modern, backend yang scalable, dan antarmuka yang responsif. Saya senang mempelajari teknologi baru serta terus mengembangkan kemampuan dalam pengembangan perangkat lunak.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Profile
-
-- 👤 **Nama:** Rifqi Ardiansyah
+- 👤 **Name:** Rifqi Ardiansyah
+- 🐙 **Username:** `rifqhost`
 - 💼 **Role:** Full Stack Developer
-- 🌍 **Negara:** Indonesia
-- 🎯 **Fokus:** Backend & Frontend Development
-- 📚 **Sedang Belajar:** React, TypeScript, Node.js, Laravel
-- 🚀 **Tujuan:** Menjadi Professional Full Stack Engineer
+- 🌍 **Location:** Indonesia
 
-</td>
+### 🎯 Current Focus
+- Backend Development
+- Frontend Development
+- REST API
+- UI / UX Design
+- Clean Architecture
 
-<td width="50%">
+### 📚 Currently Learning
+- React
+- TypeScript
+- Node.js
+- Express
+- Laravel
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Focus
-
-- ⚡ Backend Development
-- 🎨 Frontend Development
-- 🔗 REST API Development
-- 📱 Responsive Web Design
-- 🧩 UI / UX Design
-- 🏗 Clean & Scalable Architecture
+### 🚀 Goal
+Menjadi **Professional Full Stack Engineer** yang mampu membangun aplikasi modern, scalable, dan berkualitas tinggi.
 
 ---
-
-## 🌱 Currently Learning
-
-| Technology | Progress |
-|------------|----------|
-| ⚛ React | █████████░ 90% |
-| 🔷 TypeScript | ████████░░ 80% |
-| 🟢 Node.js | █████████░ 90% |
-| 🚀 Express | ████████░░ 80% |
-| ❤️ Laravel | ██████████ 95% |
-
----
-
-> 💡 *"First, solve the problem. Then, write clean, scalable, and maintainable code."*
