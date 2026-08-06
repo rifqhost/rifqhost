@@ -1,6 +1,21 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=⚡+RIFQHOST;🚀+FULL+STACK+DEVELOPER;💜+BACKEND+ENGINEER;✨+BUILD.+CREATE.+DEPLOY." />
+```bash
+> whoami
+
+Rifqi Ardiansyah
+
+> role
+
+Full Stack Developer
+
+> status
+
+Online
+
+> loading...
+
+█████████████████████ 100%
 
 <br>
 
