@@ -1,15 +1,10 @@
 <div align="center">
 
-```text
-██████╗ ██╗███████╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
-██╔══██╗██║██╔════╝██╔═══██╗██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
-██████╔╝██║█████╗  ██║   ██║███████║██║   ██║███████╗   ██║
-██╔══██╗██║██╔══╝  ██║▄▄ ██║██╔══██║██║   ██║╚════██║   ██║
-██║  ██║██║██║     ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║
-╚═╝  ╚═╝╚═╝╚═╝      ╚══▀▀═╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=RIFQHOST&fontSize=70&fontColor=8B5CF6&animation=fadeIn&fontAlignY=50"/>
 
-### JUNIOR PROGRAMMER • FULL STACK DEVELOPER
+<br>
+
+### ⚡ JUNIOR PROGRAMMER • FULL STACK DEVELOPER ⚡
 
 <br>
 
@@ -18,3 +13,26 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge" alt="Status"/>
 
 </div>
+
+---
+
+## 💻 System Information
+
+```yaml
+Name      : Rifqi Ardiansyah
+Username  : rifqhost
+Role      : Full Stack Developer
+Location  : Indonesia
+
+Focus:
+  - Backend Development
+  - Frontend Development
+  - REST API
+  - UI / UX
+
+Currently Learning:
+  - React
+  - TypeScript
+  - Node.js
+  - Laravel
+  - Express.js
