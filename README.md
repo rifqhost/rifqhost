@@ -9,7 +9,7 @@
 ███  ▀███ ▄███▄ ███       ▀█████▀  ▄███▄ ███   ███  ▀█████▀  ███████▀    ███    
                                ▀▀                                               
                                                                                 
-
+```text
 <br>
 
 <img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=8B5CF6"/>
