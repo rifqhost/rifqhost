@@ -21,7 +21,7 @@
 ```yaml
 Name      : Rifqi Ardiansyah
 Username  : rifqhost
-Role      : Full Stack Developer
+Role      : Junior Programmer
 Location  : Indonesia
 
 Focus:
