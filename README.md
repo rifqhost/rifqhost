@@ -1,22 +1,21 @@
 <div align="center">
 
 ```text
-                                                                                
-▄▄▄▄▄▄▄   ▄▄▄▄▄  ▄▄▄▄▄▄▄   ▄▄▄▄▄   ▄▄▄▄▄ ▄▄▄   ▄▄▄   ▄▄▄▄▄    ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄ 
-███▀▀███▄  ███  ███▀▀▀▀▀ ▄███████▄  ███  ███   ███ ▄███████▄ █████▀▀▀ ▀▀▀███▀▀▀ 
-███▄▄███▀  ███  ███▄▄    ███   ███  ███  █████████ ███   ███  ▀████▄     ███    
-███▀▀██▄   ███  ███▀▀    ███▄█▄███  ███  ███▀▀▀███ ███▄▄▄███    ▀████    ███    
-███  ▀███ ▄███▄ ███       ▀█████▀  ▄███▄ ███   ███  ▀█████▀  ███████▀    ███    
-                               ▀▀                                               
-                                                                                
-```text
+▄▄▄▄▄▄▄   ▄▄▄▄▄  ▄▄▄▄▄▄▄   ▄▄▄▄▄   ▄▄▄▄▄ ▄▄▄   ▄▄▄   ▄▄▄▄▄    ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄
+███▀▀███▄  ███  ███▀▀▀▀▀ ▄███████▄  ███  ███   ███ ▄███████▄ █████▀▀▀ ▀▀▀███▀▀▀
+███▄▄███▀  ███  ███▄▄    ███   ███  ███  █████████ ███   ███  ▀████▄     ███
+███▀▀██▄   ███  ███▀▀    ███▄█▄███  ███  ███▀▀▀███ ███▄▄▄███    ▀████    ███
+███  ▀███ ▄███▄ ███       ▀█████▀  ▄███▄ ███   ███  ▀█████▀  ███████▀    ███
+                               ▀▀
+```
+
 <br>
 
-<img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/rifqhost?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6" alt="GitHub Followers"/>
 
-<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=06B6D4"/>
+<img src="https://komarev.com/ghpvc/?username=rifqhost&style=for-the-badge&color=06B6D4" alt="Profile Views"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge" alt="Status"/>
 
 </div>
 
@@ -26,11 +25,8 @@
 
 ```yaml
 Name      : Rifqi Ardiansyah
-
 Username  : rifqhost
-
 Role      : Full Stack Developer
-
 Location  : Indonesia
 
 Focus:
@@ -44,86 +40,84 @@ Currently Learning:
   - TypeScript
   - Node.js
   - Laravel
-  - Express
+  - Express.js
 ```
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,sqlite,mongodb,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,sqlite,mongodb,git,github,vscode,figma,postman" alt="Tech Stack"/>
 
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rifqhost&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<p align="center">
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=rifqhost&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifqhost&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqhost&theme=react-dark&bg_color=0D1117&color=00F5FF&line=A855F7&point=FF00FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqhost&theme=react-dark&bg_color=0D1117&color=00F5FF&line=A855F7&point=FF00FF&hide_border=true" alt="Contribution Graph"/>
 
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🌐 Portfolio | Personal Portfolio Website |
-| 📝 CBT School | Computer Based Test System |
-| 📖 Guestbook | Flutter Guestbook Application |
-| 🤖 WhatsApp Bot | Automation & API |
-| 🎮 Roblox Script Hub | Script Management Platform |
+| 🚀 Project               | 📝 Description                |
+| ------------------------ | ----------------------------- |
+| 🌐 **Portfolio**         | Personal Portfolio Website    |
+| 📝 **CBT School**        | Computer Based Test System    |
+| 📖 **Guestbook**         | Flutter Guestbook Application |
+| 🤖 **WhatsApp Bot**      | Automation & API              |
+| 🎮 **Roblox Script Hub** | Script Management Platform    |
 
 ---
 
 ## 🧠 Philosophy
 
+<div align="center">
+
 > **"First, solve the problem. Then, write clean, scalable, and maintainable code."**
+
+</div>
 
 ---
 
 ## 📬 Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/rifqhost">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
 </a>
 
-<a href="https://instagram.com/">
-
-<img src="https://skillicons.dev/icons?i=instagram"/>
-
+<a href="https://instagram.com/rifqhost">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
 </a>
 
-<a href="mailto:">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+<a href="mailto:rifqi.ardiansyah310509@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -131,6 +125,8 @@ Currently Learning:
 
 ### ⚡ BUILD • CREATE • DEPLOY • REPEAT ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=8B5CF6&height=120"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=8B5CF6&height=120" alt="Footer"/>
 
 </div>
